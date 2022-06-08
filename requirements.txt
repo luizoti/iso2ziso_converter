@@ -1,0 +1,6 @@
+pylint
+autopep8
+cx_Freeze
+python-decouple
+
+lz4

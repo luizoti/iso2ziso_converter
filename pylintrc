@@ -1,0 +1,2 @@
+[MASTER]
+disable=line-too-long,wrong-import-position,logging-fstring-interpolation,unspecified-encoding
